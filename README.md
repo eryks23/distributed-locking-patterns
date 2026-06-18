@@ -287,5 +287,5 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
-> **Author:** [DO UZUPEŁNIENIA: your name / contact / website]  
+> **Author:** eryks23 
 > **Repository:** [https://github.com/eryks23/distributed-locking-patterns](https://github.com/eryks23/distributed-locking-patterns)
