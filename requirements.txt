@@ -1,0 +1,9 @@
+# Runtime dependencies
+fakeredis>=2.0.0
+colorama>=0.4.6
+
+# Optional: for switching to a real Redis instance
+# redis>=4.0.0
+
+# Development / testing
+pytest>=7.0.0
